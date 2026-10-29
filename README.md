@@ -2,7 +2,8 @@
 
 A maze adventure made with Bitsy. Find the secret door hidden in each room to reach the final destination.
 
-Play: Download and open index.html in your browser. Move with the arrow keys or WASD; walk into characters and objects to interact.
+Play it in your browser: https://jinwangli2006-dev.github.io/two-keys-to-the-exit/
+Move with the arrow keys or WASD; walk into characters and objects to interact.
 
 Files:
 - index.html: playable game
